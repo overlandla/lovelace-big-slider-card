@@ -42,7 +42,7 @@ transition: 0.3
 height: 80
 background_color: '#a45634'
 text_color: '#ffffff'
-border_color: 'ff00ff'
+border_color: '#ff00ff'
 border_radius: '4px'
 border_style: 'dashed'
 border_width: '5px'
